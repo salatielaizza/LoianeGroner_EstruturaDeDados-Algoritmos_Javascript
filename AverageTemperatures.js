@@ -21,4 +21,4 @@ matriz2[1][0] = 11;
 matriz2[1][1] = 11;
 console.log(matriz2);
 
-//teste: acrescentei comentário apenas para testar adicionar na origin
+//teste1: acrescentei branch testArea.
